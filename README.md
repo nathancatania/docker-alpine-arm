@@ -1,5 +1,6 @@
 docker-alpine-arm
 =================
+** Unmodified repository. Forked to save source for stable easypi docker image for Open-NTPi. **
 
 ![](https://badge.imagelayers.io/easypi/alpine-arm:latest.svg)
 
